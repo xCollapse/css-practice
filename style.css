@@ -13,3 +13,27 @@
     font-weight: bold;
 }
 .font{font-size: 24px;}
+.backgroundcolor1 {color: white;
+    background-color: black;
+
+}
+.backgroundcolor2 {background-color: yellow;
+    color: black;
+
+}
+.backgroundcolor1 ,.backgroundcolor2{
+    font-size: 40px;
+    font-family: Helvetica,"Times New Roman",   sans-serif;
+    
+}
+ .avatar {
+
+ }
+ .avatar.distorted{width: 200px;
+    height: 400px;
+
+ }
+ .avatar.proportioned{width: 300px;
+    height: auto;
+
+ }
